@@ -1,0 +1,24 @@
+256m:
+java.lang.OutOfMemoryError: Java heap space
+Dumping heap to ./logs/heapdump.hprof ...
+Heap dump file created [434691224 bytes in 1.359 secs]
+
+2g: spend msec:10152, sec:10
+
+512m: spend msec:11793, sec:11
+
+768m: spend msec:10884, sec:10
+
+1g: spend msec:10611, sec:10
+
+1280m: spend msec:10726, sec:10
+
+1536m: spend msec:10906, sec:10
+
+1792m: spend msec:9709, sec:9
+
+1600m: spend msec:10394, sec:10
+
+1700m: spend msec:10356, sec:10
+
+Оптимальный размер хипа: 1792m
