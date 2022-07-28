@@ -1,0 +1,11 @@
+256m: spend msec:796, sec:0
+
+2g: spend msec:774, sec:0
+
+512m: spend msec:804, sec:0
+
+768m: spend msec:786, sec:0
+
+1g: spend msec:788, sec:0
+
+Оптимальный размер хипа: 256m
